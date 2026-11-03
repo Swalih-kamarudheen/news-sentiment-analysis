@@ -50,6 +50,10 @@ The system automatically runs every **5 minutes**, collects the latest technolog
                               └────────────────────────┘
 ```
 
+### Architecture Diagram
+
+![AWS Architecture](assets/dashboard.png.jpeg)
+
 ---
 
 ## 🚀 End-to-End Workflow
